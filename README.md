@@ -5,6 +5,8 @@ Our purpose is to give a better understanding of the key factors contributing to
  
 Every year several crowdfunding campaigns are launched to fund a width spectrum of projects; a total of 4114 crowdfunding campaigns were launched between May 2009 and March 2017, more than half were successful, and out of the total, 3038 were launched in United States (74%) and 604 in Great Britain (15%). 
 
-![Parent Category Outcomes_All](https://user-images.githubusercontent.com/88411170/130381461-55440b77-4db3-42dc-8444-3abf74e37e6c.png)
+![Campaigns by Country](https://user-images.githubusercontent.com/88411170/130383044-8af15c7e-8c1a-4ed3-b17d-e0ba3eec9127.png)
 
 Most of the crowdfunding campaigns aimed to support film & video, music, technology and theater projects, being theater, with 1393, the category with the highest quantity of campaigns launched.
+
+![Parent Category Outcomes_All](https://user-images.githubusercontent.com/88411170/130381461-55440b77-4db3-42dc-8444-3abf74e37e6c.png)

@@ -12,4 +12,4 @@ Most of the crowdfunding campaigns aimed to support film & video, music, technol
 ![Parent Category Outcomes_All](https://user-images.githubusercontent.com/88411170/130381461-55440b77-4db3-42dc-8444-3abf74e37e6c.png)
 
 **Theater crowdfunding campaigns**
-
+https://github.com/MEJE56/01-kickstarter-analysis/issues/3#issue-976572637

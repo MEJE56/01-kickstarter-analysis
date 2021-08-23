@@ -11,6 +11,8 @@ Most of the crowdfunding campaigns aimed to support film & video, music, technol
 
 ![Parent Category Outcomes_All](https://user-images.githubusercontent.com/88411170/130381461-55440b77-4db3-42dc-8444-3abf74e37e6c.png)
 
-**Theater crowdfunding campaigns**
+**Theater crowdfunding campaigns in United States**
+
+Moving to the category of interest, theater, out of the total 1393 campaigns 90% happened in United states and Great Britain, being both interesting markets to analyze. However, the following analysis examines the outcome of the campaigns launched in America, as “Fever” will be launched there.
 
 ![Theater Outcomes US GB](https://user-images.githubusercontent.com/88411170/130384309-b9b0e7e6-a72c-4f21-b17b-0eddc935ac4f.png)

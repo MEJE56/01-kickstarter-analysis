@@ -10,3 +10,6 @@ Every year several crowdfunding campaigns are launched to fund a width spectrum 
 Most of the crowdfunding campaigns aimed to support film & video, music, technology and theater projects, being theater, with 1393, the category with the highest quantity of campaigns launched.
 
 ![Parent Category Outcomes_All](https://user-images.githubusercontent.com/88411170/130381461-55440b77-4db3-42dc-8444-3abf74e37e6c.png)
+
+**Theater crowdfunding campaigns**
+
